@@ -1,4 +1,4 @@
 "use strict";
-module.exports = function helloWorld() {
+exports.helloWorld = function () {
   console.log("Hello, World!");
 }
