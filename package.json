@@ -1,6 +1,6 @@
 {
-  "name": "hello-sugarlabs-module",
-  "version": "0.0.1",
+  "name": "hello-sugarlabs-module-v0.0.3",
+  "version": "0.0.3",
   "description": "Google Code-in task 2017 (Sugarlabs)",
   "main": "index.js",
   "scripts": {
